@@ -1,0 +1,19 @@
+﻿  Space.cpp
+  Piece.cpp
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\piece.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(340): warning C4018: '<': signed/unsigned mismatch
+  Board.cpp
+  Generating Code...
+c:\users\aaron\documents\visual studio 2015\projects\checkers\checkers\game.cpp(22): warning C4172: returning address of local variable or temporary: t
+  Skipping... (no relevant changes detected)
+  Player.cpp
+  Checkers.vcxproj -> C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Checkers\Debug\Checkers.exe
+  Checkers.vcxproj -> C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Checkers\Debug\Checkers.pdb (Full PDB)
